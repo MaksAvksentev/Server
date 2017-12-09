@@ -1,1 +1,1 @@
-web: java -jar target/Server-1.0.jar
+web: java -jar target/red5-server-1.0.jar
